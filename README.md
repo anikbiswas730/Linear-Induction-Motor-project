@@ -7,7 +7,7 @@
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 This project involves the **design, construction, and testing of a single-sided three-phase Linear Induction Motor (LIM)**. Unlike conventional rotary induction motors, a LIM produces linear thrust instead of rotational torque — achieved by conceptually "unrolling" a rotary motor into a flat, linear form.
 
