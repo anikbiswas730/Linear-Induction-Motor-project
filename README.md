@@ -1,7 +1,8 @@
 # Three-Phase Linear Induction Motor
 
-> **EEE-206 — Energy Conversion Laboratory | Section B2, Group 5**  
-> Department of Electrical and Electronic Engineering  
+[![Live Visualizer](https://img.shields.io/badge/Live_Animation-Play_Now-00e5ff?style=for-the-badge&logo=github)](https://anikbiswas730.github.io/Linear-Induction-Motor-project/)
+
+> **EEE-206 — Energy Conversion Laboratory | Section B2, Group 5** > Department of Electrical and Electronic Engineering  
 > Bangladesh University of Engineering and Technology (BUET)
 
 ---
