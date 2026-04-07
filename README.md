@@ -14,7 +14,7 @@ The motor was built and tested under both **2-pole** and **4-pole** configuratio
 
 ---
 
-## 🧑‍🤝‍🧑 Team Members
+## Team Members
 
 | Name | Student ID |
 |------|------------|
@@ -30,7 +30,7 @@ The motor was built and tested under both **2-pole** and **4-pole** configuratio
 
 ---
 
-## 📁 Repository Contents
+##  Repository Contents
 
 ```
 📦 linear-induction-motor
@@ -84,7 +84,7 @@ Speed and torque are controlled via the **consequent pole-changing method** — 
 
 ---
 
-## ⚠️ Limitations Observed
+##  Limitations Observed
 
 1. **Air gap control** — difficulty maintaining a small, uniform air gap reduced induced flux
 2. **Insufficient coil count** — stator coils were too few to induce adequate rotor voltage
@@ -93,6 +93,6 @@ Speed and torque are controlled via the **consequent pole-changing method** — 
 
 ---
 
-## 📄 License
+##  License
 
 This project report is submitted for academic purposes at BUET. All rights reserved by the authors.
